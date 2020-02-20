@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Funcionario
+comment0.text=\r\n\ Escreva\ a\ descri\u00E7\u00E3o\ da\ classe\ Funcionario\ aqui.\r\n\ \r\n\ @author\ (seu\ nome)\ \r\n\ @version\ (n\u00FAmero\ de\ vers\u00E3o\ ou\ data)\r\n
+comment1.params=nome\ idade\ sal
+comment1.target=Funcionario(java.lang.String,\ int,\ double)
+comment2.params=
+comment2.target=java.lang.String\ getNome()
+comment3.params=
+comment3.target=int\ getIdade()
+comment4.params=
+comment4.target=double\ getSalario()
+comment5.params=nome
+comment5.target=void\ setNome(java.lang.String)
+comment6.params=idade
+comment6.target=void\ setIdade(int)
+comment7.params=sal
+comment7.target=void\ setSalario(double)
+numComments=8

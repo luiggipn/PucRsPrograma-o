@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Exercicios
+comment1.params=nomeEx\ qntSeries\ qntRep\ carga
+comment1.target=Exercicios(java.lang.String,\ int,\ int,\ double)
+comment2.params=
+comment2.target=java.lang.String\ getNomeExercicios()
+comment3.params=
+comment3.target=int\ getQntSeries()
+comment4.params=
+comment4.target=int\ getQntRepeticoes()
+comment5.params=
+comment5.target=double\ getCargaKg()
+comment6.params=novoNome
+comment6.target=void\ setNomeExercicio(java.lang.String)
+comment7.params=novoQnt
+comment7.target=void\ setQntSeries(int)
+comment8.params=novoQnt
+comment8.target=void\ setQntRepeticoes(int)
+comment9.params=novoCarga
+comment9.target=void\ setCargaKg(double)
+numComments=10

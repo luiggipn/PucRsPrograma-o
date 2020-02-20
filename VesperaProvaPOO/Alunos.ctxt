@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Alunos
+comment1.params=nome\ dataNascimento
+comment1.target=Alunos(java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getNome()
+comment3.params=
+comment3.target=java.lang.String\ getDataNascimento()
+comment4.params=
+comment4.target=int\ getCodigoAluno()
+comment5.params=
+comment5.target=boolean\ getMatriculaAtiva()
+comment6.params=novoNome
+comment6.target=void\ setNome(java.lang.String)
+comment7.params=novaDataNasc
+comment7.target=void\ setDataNascimento(java.lang.String)
+comment8.params=
+comment8.target=void\ matriculaAtiva()
+comment9.params=
+comment9.target=void\ desativarMatricula()
+numComments=10

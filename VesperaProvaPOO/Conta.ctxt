@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Conta
+comment0.text=\r\nDefina\ a\ classe\ ContaBancaria.\ Todas\ as\ contas\ possuem\ titular,\ n\u00FAmero,\ ag\u00EAncia\ e\ saldo.\ \r\nPor\ padr\u00E3o,\ ao\ ser\ criada,\ o\ saldo\ de\ uma\ nova\ conta\ \u00E9\ sempre\ R$\ 0,00.\ \r\nDefina\ os\ atributos\ da\ sua\ classe\ e\ os\ m\u00E9todos\ b\u00E1sicos.\ Al\u00E9m\ disso,\ escreva\ um\ m\u00E9todo\ que\ permita\ sacar\ e\ depositar\ valores\ na\ conta.\ \r\nTamb\u00E9m\ dever\u00E1\ permitir\ transferir\ dinheiro\ entre\ contas.\ Para\ isso\ crie\ um\ m\u00E9todo\ transferir(ContaBancaria\ destino,\ double\ valor).\r\nComo\ podemos\ usar\ esse\ m\u00E9todo\ para\ transferir\ dinheiro\ de\ uma\ conta\ para\ outra?\ \r\nImplemente\ uma\ classe\ Principal,\ contendo\ um\ m\u00E9todo\ main,\ e\ instancie\ nela\ 2\ objetos\ da\ classe\ ContaBancaria.\ \r\nRealize\ opera\u00E7\u00F5es\ com\ as\ contas,\ como\ saques,\ dep\u00F3sitos\ e\ transfer\u00EAncias.\ Apresente\ os\ dados\ de\ ambas\ as\ contas\ ao\ final.\ \r\n\ \r\n
+comment1.params=titular\ ag\ numeroConta
+comment1.target=Conta(java.lang.String,\ int,\ int)
+comment2.params=
+comment2.target=java.lang.String\ getTitular()
+comment3.params=
+comment3.target=int\ getAg()
+comment4.params=
+comment4.target=int\ getNumeroConta()
+comment5.params=
+comment5.target=double\ getSaldo()
+comment6.params=titular
+comment6.target=void\ setTitular(java.lang.String)
+comment7.params=val
+comment7.target=boolean\ sacar(double)
+comment8.params=val
+comment8.target=boolean\ depositar(double)
+numComments=9

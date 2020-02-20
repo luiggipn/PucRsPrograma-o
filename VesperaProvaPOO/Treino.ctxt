@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Treino
+comment1.params=objetivo\ dataInicio\ dataFim\ aluno
+comment1.target=Treino(java.lang.String,\ java.lang.String,\ java.lang.String,\ Alunos)
+comment2.params=ex
+comment2.target=boolean\ adicionaExTreino(Exercicios)
+numComments=3
